@@ -1,0 +1,2 @@
+# biometrics
+GSM Based Biometric Access Control System was my final year project. My key responsibilities were to lead the team &amp; to find solutions and implement them in code. Our project is an Access Control System equipped with biometric Enrollment and Verification. The System comprises of Notification module through GSM modem to Person of interest (Administrator). This project is meant for organizational personnel and owners to authorize use of the premises and control the accessibility of the premise as demand requires.  
